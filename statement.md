@@ -1,1 +1,4 @@
-
+The problem statement for a number guessing game is to create a program that generates a random number within a set range, and then prompts the user to guess it. The program should provide feedback to the user after each guess, indicating if their guess was too high or too low, until the correct number is guessed.
+The scope of a number guessing game is its potential as an educational tool for beginners to learn programming fundamentals and as a basis concept for more complex games.
+The target users for a number guessing game are varied, including beginners learning to code, casual gamers seeking simple entertainment, and educators using it as a teaching tool.It is also used in more complex contextx,such as a way to practice algorithms thinking for intermediate programmers and even aspiring machine learning specialists.
+high-level features of a number guessing game include random number generation ,user input, a feedback mechanism, and defined game-end conditions.it can be expanded with more advanced features like customizable difficulty,scoring,and multi-round play
